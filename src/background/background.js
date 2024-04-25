@@ -1,5 +1,3 @@
-import { resolve } from "core-js/fn/promise";
-
 // 打开新 tab
 async function open(url) {
     return new Promise((resolve)=>{
